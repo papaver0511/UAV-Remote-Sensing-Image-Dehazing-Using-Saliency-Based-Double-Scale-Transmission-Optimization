@@ -23,8 +23,7 @@ Coming soon...
 
 ## Contact
 
-If you are interested in our work or have any questions, please directly contact me. 
-Email: [kemengzhang@mail.bnu.edu.cn](kemengzhang@mail.bnu.edu.cn)
+If you are interested in our work or have any questions, please directly contact me. Email: [kemengzhang@mail.bnu.edu.cn](kemengzhang@mail.bnu.edu.cn)
 
 
 ## Acknowledgments
