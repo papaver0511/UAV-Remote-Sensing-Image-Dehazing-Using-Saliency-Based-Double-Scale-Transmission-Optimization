@@ -15,7 +15,7 @@ Current dehazing methods for unmanned aerial vehicle (UAV) remote sensing images
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
 
-## Practice: Customize your first GitHub website by writing HTML code
+## Citation
 
 Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
 
@@ -33,7 +33,7 @@ To add your introduction, copy our template and click the edit pencil icon at th
 Delete this placeholder line:
 
 ```
-<p>Welcome to your first GitHub Pages website!</p>
+<p>Coming soon</p>
 ```
 
 Then, paste the template to line 15 and fill in the blanks.
@@ -51,12 +51,14 @@ Once you click `Commit changes`, your changes will automatically be published on
 :tada: You just made your first commit! :tada:
 
 
-### Push your changes to GitHub.com
+## Contact
 
-One of the great things about working on things on your computer is that you get to control when other people see them. Now let’s push your commit to GitHub.com as well so it’s saved there and you can publish it to your site. Click the “Push origin” button to push your commit to GitHub.com. 
+If you are interested in our work or have any questions, please directly contact me. 
+Email: [Markdown language](kemengzhang@mail.bnu.edu.cn)
 
-![Push-to-GitHub](https://user-images.githubusercontent.com/721500/63188834-82fb9600-c030-11e9-9d8e-6c6ed6d48504.png)
 
-Now click the “View on GitHub” button to get back to your repository’s page on GitHub.com.
 
-![View-on-GitHub](https://user-images.githubusercontent.com/721500/63188836-82fb9600-c030-11e9-9bc5-cf304398500d.png)
+## Acknowledgments
+
+This research was supported by Beijing Natural Science Foundation (L182029), and National Natural Science Foundation of China (61571050).
+
