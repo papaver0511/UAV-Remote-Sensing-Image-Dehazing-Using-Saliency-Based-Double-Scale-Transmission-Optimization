@@ -10,9 +10,10 @@ Current dehazing methods for unmanned aerial vehicle (UAV) remote sensing images
 
 
 
-## Describe your project
+## Framework
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+
+
 
 
 ## Citation
@@ -21,13 +22,10 @@ You are currently viewing your project's **README** file. **_README_** files are
 Coming soon...
 ```
 
-
-
 ## Contact
 
 If you are interested in our work or have any questions, please directly contact me. 
-Email: [Markdown language](kemengzhang@mail.bnu.edu.cn)
-
+Email: [kemengzhang@mail.bnu.edu.cn](kemengzhang@mail.bnu.edu.cn)
 
 
 ## Acknowledgments
