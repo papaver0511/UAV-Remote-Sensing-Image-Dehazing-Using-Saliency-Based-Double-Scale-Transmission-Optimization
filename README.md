@@ -12,8 +12,7 @@ Current dehazing methods for unmanned aerial vehicle (UAV) remote sensing images
 
 ## Framework
 
-
-
+![Framework of the proposed method](https://github.com/papaver0511/UAV-Remote-Sensing-Image-Dehazing-Based-on-Saliency-Guided-Two-scale-Transmission-Correction/blob/master/photos/Framework.jpg)
 
 
 ## Citation
